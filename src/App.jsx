@@ -1,10 +1,13 @@
+import Button from 'react-bootstrap/Button';
+
 function App() {
 
   return (
-    <>
-      home
-    </>
-  )
+  <>
+    Home
+      <Button>My Button </Button>
+      </>
+);  
 }
 
 export default App
